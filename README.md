@@ -10,18 +10,14 @@ de dados focado em SQL Server, MySQL e Oracle, com introdução nas linguagens T
 
 ### CONTEÚDOS ABORDADOS
 
-- Diferenças entre ambientes OLTP e OLAP</br>
-- Diferença entre um Administrador de Dados e um DBA</br>
 - Programar em Banco de Dados</br>
 - Realizar Backups e Restores dos seus Bancos de Dados</br>
 - Aplicar as Formas Normais</br>
 - Criar Triggers</br>
 - Procedures</br>
 - Functions e Views</br>
-- Utilizar o Dicionário de Dados</br>
 - Utilizar softwares de modelagem</br>
 - Aplicar seguramente os relacionamentos 1 x 1 , 1 x N, N x N</br>
-- Generalização e Autorelacionamento</br>
 
 <h4 align="center"> 
 	🚧  Finalizado  🚧
