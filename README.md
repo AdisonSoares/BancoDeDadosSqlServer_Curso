@@ -6,7 +6,7 @@
 - Curso da plataforma Udemy, ministrado pelo professor Felipe Mafra.</br>
 
 - Sua proposta é ensinar, de forma simples, a introdução e desenvolvimento de banco
-de dados focado em SQL Server, MySQL e Oracle, com introdução nas linguagens T-SQL.
+de dados focado em SQL Server, MySQL e Oracle.
 
 ### CONTEÚDOS ABORDADOS
 
